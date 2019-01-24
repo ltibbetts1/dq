@@ -2,3 +2,4 @@
 -ibm spss modeler
 -ibm statistics
 -rapidminer
+-is awesome
