@@ -6,4 +6,4 @@
 ## Section 2: Some tools
 -rapidminer
 ## Section 3: Customer Segmentation
-
+List of Tools
